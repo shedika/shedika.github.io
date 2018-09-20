@@ -1,0 +1,43 @@
+body {
+  text-align: center;
+  height: 90vh;
+  background-image: url("ocean.jpg");
+  background-size: cover;
+}
+
+h1 {
+  font-size: 4em;
+  color: green;
+}
+
+ul {
+  margin: auto;
+  width: 70%;
+  height: 60%;
+  border-radius: 25px;
+  border: 1px solid #5C5D67;
+  background-color: #A68BA5;
+  font-size: 2em;
+  overflow-y: scroll;
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  border-radius: 15px;
+  margin: 10px;
+  background-color: #AA8FA9;
+  border: 1px dotted #FFFFFF;
+}
+
+em {
+  font-size: 15px;
+  color: #BBBBBB;
+}
+
+input {
+  margin: 20px auto 0 auto;
+  width: 60%;
+  font-size: 2em;
+  border-color: black;
+}

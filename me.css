@@ -1,0 +1,31 @@
+body {
+   text-align:center
+   height:90vh;
+   background-size:cover;
+   background-image:url("ocean.jpg");
+}
+h1 {
+  font-size:4em;
+  color:green;
+}
+
+ol {
+  margin:auto;
+  width: 40%;
+  height: 40%;
+  border-radius: 25px;
+  font-size:2em;
+  background-color:#A68BA5;
+}
+
+li {
+  border-radius:15px;
+  margin: 20px;
+  background-color:white;
+  border: 1px dotted #FFFFFF;
+}
+input {
+ margin:20px auto 0 auto;
+ font-size: 2em;
+ border-color:black;
+}
